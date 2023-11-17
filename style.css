@@ -1,0 +1,28 @@
+*{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: aliceblue;
+}
+
+h1{
+   margin-bottom:-20px; 
+}
+.cStyle1,.cStyle2{
+    
+    border-width: 1px;
+    border: solid;
+    border-color: red;
+    border-width: 1px;
+    
+}
+
+.but1{
+    background-color:rgb(206, 131, 34);
+    color:black;
+
+}
+
+.calcBut{
+    /* background-color: rgb(30, 19, 155); */
+    /* color:aquamarine; */
+    width:100px;
+}
